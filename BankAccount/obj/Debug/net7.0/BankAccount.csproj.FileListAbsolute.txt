@@ -1,0 +1,14 @@
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\bin\Debug\net7.0\BankAccount.exe
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\bin\Debug\net7.0\BankAccount.deps.json
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\bin\Debug\net7.0\BankAccount.runtimeconfig.json
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\bin\Debug\net7.0\BankAccount.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\bin\Debug\net7.0\BankAccount.pdb
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.AssemblyInfo.cs
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\refint\BankAccount.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.pdb
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\BankAccount.genruntimeconfig.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\BankAccount\obj\Debug\net7.0\ref\BankAccount.dll
