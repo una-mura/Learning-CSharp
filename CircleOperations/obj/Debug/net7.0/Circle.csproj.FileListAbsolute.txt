@@ -1,0 +1,14 @@
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\bin\Debug\net7.0\CircleOperations.exe
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\bin\Debug\net7.0\CircleOperations.deps.json
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\bin\Debug\net7.0\CircleOperations.runtimeconfig.json
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\bin\Debug\net7.0\CircleOperations.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\bin\Debug\net7.0\CircleOperations.pdb
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\Circle.AssemblyInfoInputs.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\Circle.AssemblyInfo.cs
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\CircleOperations.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\refint\CircleOperations.dll
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\CircleOperations.pdb
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\Circle.genruntimeconfig.cache
+C:\Users\lunas\RiderProjects\Learning-CSharp\Circle\obj\Debug\net7.0\ref\CircleOperations.dll
