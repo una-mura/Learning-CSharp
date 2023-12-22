@@ -1,0 +1,14 @@
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\bin\Debug\net7.0\AccessControl.exe
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\bin\Debug\net7.0\AccessControl.deps.json
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\bin\Debug\net7.0\AccessControl.runtimeconfig.json
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\bin\Debug\net7.0\AccessControl.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\bin\Debug\net7.0\AccessControl.pdb
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.AssemblyInfoInputs.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.AssemblyInfo.cs
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.csproj.CoreCompileInputs.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\refint\AccessControl.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.pdb
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\AccessControl.genruntimeconfig.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\AccessControl\obj\Debug\net7.0\ref\AccessControl.dll
