@@ -1,0 +1,14 @@
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\bin\Debug\net7.0\PocketMonsters.exe
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\bin\Debug\net7.0\PocketMonsters.deps.json
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\bin\Debug\net7.0\PocketMonsters.runtimeconfig.json
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\bin\Debug\net7.0\PocketMonsters.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\bin\Debug\net7.0\PocketMonsters.pdb
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.AssemblyInfoInputs.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.AssemblyInfo.cs
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\refint\PocketMonsters.dll
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.pdb
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\PocketMonsters.genruntimeconfig.cache
+C:\Users\Ryuna Uemura\Documents\GitHub\Learning-CSharp\PocketMonsters\obj\Debug\net7.0\ref\PocketMonsters.dll
