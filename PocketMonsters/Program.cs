@@ -55,7 +55,7 @@ while (game)
 }
 
 Console.WriteLine("\n========================================================================\n");
-Console.WriteLine($"{trainer.Name}'s Sightings Report\n");
+Console.WriteLine($"{monsterDex.DexTrainer?.Name}'s Sightings Report\n");
 
 if (monsterDex.database.Count is 0)
 {
